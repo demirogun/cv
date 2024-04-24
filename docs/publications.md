@@ -50,7 +50,7 @@ Carex.
 In: Güner, A., Kandemir, A., Menemen, Y., Yıldırım, H., Aslan, S., Çimen, A.Ö., Güner, I., Bone, G.E. ve Gökmen, F.Ş. (eds.). 
 Illustrated Flora of Türkiye 4b: 172-438. 
 ANG Vakfı Nezahat Gökyiğit Botanik Bahçesi Yayınları, İstanbul.
-ISBN: [???](https://isbnsearch.org/isbn/???).
+ISBN: [9786057000491](https://isbnsearch.org/isbn/9786057000491).
 
 ## Conference Proceedings
 
