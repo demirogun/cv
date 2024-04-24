@@ -29,7 +29,7 @@ rare *Verbascum* species distributed in Türkiye with the MaxEnt algorithm.
 - **Ph.D. in Biology**, Tekirdağ Namık Kemal University, Tekirdağ, Türkiye, 2020 - present.
     - <small>**Thesis**: Prediction of Current and Future Potential Geographic Distribution of Endemic and Rare Verbascum L. (Mullein) Taxa Distributed in Turkey with the MaxEnt Algorithm</small>
 - **M.Sc. in Biology**, Tekirdağ Namık Kemal University, Tekirdağ, Türkiye, 2018-2020.
-    - <small>**Thesis**: Morphological, Anatomical, Palynological and Ecological Studies on the Mullein (Verbascum L.) Species in Tekirdağ, Türkiye</small>
+    - <small>**Thesis**: [Morphological, Anatomical, Palynological and Ecological Studies on the Mullein (Verbascum L.) Species in Tekirdağ, Türkiye](https://www.researchgate.net/publication/377983882_Morphological_Anatomical_Palynological_and_Ecological_Studies_on_the_Mullein_Verbascum_L_Species_in_Tekirdag_Turkiye)</small>
 - **B.Eng. in Biotechnology**, Tekirdağ Namık Kemal University, Tekirdağ, Türkiye, 2015-2018.
     - <small>**Project**: Solutions of the Problems in Polymerase Chain Reaction (PCR)</small>
 
@@ -163,9 +163,9 @@ ISBN: [9786059143349](https://isbnsearch.org/isbn/9786059143349).
 1. Cabi, E. Çıngay, B. & Demir, O. (2023). 
 Carex. 
 In: Güner, A., Kandemir, A., Menemen, Y., Yıldırım, H., Aslan, S., Çimen, A.Ö., Güner, I., Bone, G.E. ve Gökmen, F.Ş. (eds.). 
-Illustrated Flora of Türkiye 4b: 172-438. 
+Illustrated Flora of Türkiye 4b: 172-438.
 ANG Vakfı Nezahat Gökyiğit Botanik Bahçesi Yayınları, İstanbul.
-ISBN: [???](https://isbnsearch.org/isbn/???).
+ISBN: [9786057000491](https://isbnsearch.org/isbn/9786057000491).
 
 ### Conference Proceedings
 
@@ -258,6 +258,7 @@ Tekirdağ, Türkiye.
 
 - Introduction to Biodiversity Specimen Digitization, 2023.
     - <small>**Organization**: University of Florida, USA (iDigBio)</small>
+    - <small>**Instructor**: Prof. Dr. Austin Mast</small>
 
 - Statistical modeling techniques and applications in natural sciences, 2020.
     - <small>**Organization**: Scientific and Technological Research Council of Turkey (TÜBİTAK 2237)</small>
@@ -269,3 +270,26 @@ Tekirdağ, Türkiye.
 
 - Hands on Phylogenetics: Theory and Practice, 2019.
     - <small>**Organization**: Tekirdağ Namık Kemal University, Türkiye</small>
+    - <small>**Instructor**: Prof. Dr. Dietmar Quandt</small>
+
+## Work with
+   
+- Prof. Dr. Evren Cabi
+    - <small>**Organization**: Department of Biology, Tekirdağ Namık Kemal University</small>
+    - <small>**Email**: ecabi@nku.edu.tr</small>
+
+- Prof. Dr. Ersin Karabacak
+    - <small>**Organization**: Department of Biology, Çanakkale Onsekiz Mart University</small>
+    - <small>**Email**: krbersin@comu.edu.tr</small>
+
+- Prof. Dr. Deniz Şirin
+    - <small>**Organization**: Department of Biology, Tekirdağ Namık Kemal University</small>
+    - <small>**Email**: dsirin@nku.edu.tr</small>
+
+- Burçin Çıngay
+    - <small>**Organization**: Department of Science, Nezahat Gökyiğit Botanic Garden & Flora Research Association</small>
+    - <small>**Email**: burcincingay@ngbb.org.tr</small>
+
+- Dr. Robert John Soreng
+    - <small>**Organization**: Department of Botany - US National Herbarium (US), National Museum of Natural History, Smithsonian Institution</small>
+    - <small>**Email**: sorengr@si.edu</small>
