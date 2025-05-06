@@ -7,31 +7,39 @@ description: A list of publications of mine.
 
 ## Articles
 
-1. **Demir, O.**, Özsoy, E., Kızılırmaklı, A., Çıngay, B., Çetindaş, B., & Cabi, E. (2022).
+1. Avcıoğlu, A., Demir, O., & Görüm, T. (2025).
+An automated approach for developing geohazard inventories using news: Integrating NLP, machine learning, and mapping.
+EGUsphere [preprint].
+DOI: [10.5194/egusphere-2025-7](https://doi.org/10.5194/egusphere-2025-7).
+2. Demir, O., Çıngay, B., & Cabi, E. (2023).
+Historical Background and Taxonomical Remarks of Verbascum salgirensis Soldano (Scrophulariaceae).
+Herbarium Turcicum, 0(4), 29-34.
+DOI: [10.26650/HT.2023.1597143](https://doi.org/10.26650/HT.2023.1597143).
+3. **Demir, O.**, Özsoy, E., Kızılırmaklı, A., Çıngay, B., Çetindaş, B., & Cabi, E. (2022).
 Agricultural Weed Flora of Türkiye with Respect to Cereal Grains.
 Herbarium Turcicum, 2, 63–79.
 DOI: [10.26650/HT.2022.1209887](https://dx.doi.org/10.26650/HT.2022.1209887).
-2. **Demir, O.**, Kızılırmaklı, A., Bozdağ, C. M., & Cabi, E. (2022).
+4. **Demir, O.**, Kızılırmaklı, A., Bozdağ, C. M., & Cabi, E. (2022).
 Determination of terrestrial EUNIS habitat types of Mount Ganos (Işıklar), Tekirdağ, Türkiye.
 Frontiers in Life Sciences and Related Technologies, 3 (2), 69-74.
 DOI: [10.51753/flsrt.1109635](https://dx.doi.org/10.51753/flsrt.1109635).
-3. Cabi, E., Çıngay, B., **Demir, O.**, & Dumlu, C. (2022).
+5. Cabi, E., Çıngay, B., **Demir, O.**, & Dumlu, C. (2022).
 Evaluation of Soil and Climatic Properties of Riva Mullein (Verbascum bugulifolium Lam.) Species.
 Herbarium Turcicum, 1, 15–23.
 DOI: [10.26650/HT.2022.1503](https://dx.doi.org/10.26650/HT.2022.1503).
-4. **Demir, O.**, Çıngay, B., & Cabi, E. (2021).
+6. **Demir, O.**, Çıngay, B., & Cabi, E. (2021).
 Verbascum × malkaraense (Scrophulariaceae),	A New Verbascum L. Hybrid from Tekirdağ, Turkey.
 Bağbahçe Bilim Dergisi 8(3), 9-20.
 DOI: [10.35163/bagbahce.989510](https://dergipark.org.tr/tr/pub/bagbahce/issue/67687/989510).
-5. **Demir, O.**, Çıngay, B., & Cabi, E. (2021).
+7. **Demir, O.**, Çıngay, B., & Cabi, E. (2021).
 The	Scientific Turkish Name Proposals for the Verbascum Taxa in Turkey.
 Bağbahçe Bilim Dergisi 8(2), 38-42. 
 DOI: [10.35163/bagbahce.842287](https://dergipark.org.tr/tr/pub/bagbahce/issue/64723/842287).
-6. Ersoy, Y., Çıngay, B., Şekerciler, F., **Demir, O.**, & Cabi, E. (2019).
+8. Ersoy, Y., Çıngay, B., Şekerciler, F., **Demir, O.**, & Cabi, E. (2019).
 Checklist of grasses (Poaceae Barn.) in Istanbul. 
 Acta Biologica Turcica 32(3), 149-159.
 [Link](https://www.researchgate.net/publication/333119123_Checklist_of_grasses_Poaceae_Barn_in_Istanbul).
-7. Çıngay, B., **Demir, O.**, & Cabi, E. (2018). 
+9. Çıngay, B., **Demir, O.**, & Cabi, E. (2018). 
 Verbascum faik-karaveliogullarii (Scrophulariaceae), a new species from southeastern Anatolia, Turkey. 
 Phytotaxa 372(4), 263-272.
 DOI: [10.11646/phytotaxa.372.4.3](https://doi.org/10.11646/phytotaxa.372.4.3).
