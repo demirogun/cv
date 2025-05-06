@@ -18,11 +18,10 @@ description: CV
 
 ## About Me
 
-I am a biologist who is interested in plant taxonomy, systematics, and ecology. 
-I am also a software developer who is interested in web development, data science, and machine learning.
-I am a Ph.D. student at the Tekirdağ Namık Kemal University.
-I am working on the prediction of the current and future potential geographic distribution of endemic and 
-rare *Verbascum* species distributed in Türkiye with the MaxEnt algorithm.
+I am a biologist with interests in plant taxonomy, systematics, and ecology.
+I am also a software developer, focusing on web development, data science, and machine learning.
+Currently, I am a Ph.D. student at Tekirdağ Namık Kemal University.
+My research involves predicting the current and future potential geographic distribution of endemic and rare *Verbascum* species in Türkiye using the MaxEnt algorithm.
 
 ## Education
 
@@ -37,6 +36,9 @@ rare *Verbascum* species distributed in Türkiye with the MaxEnt algorithm.
 
 ### Work
 
+- **Fullstack Software Developer**, Nezahat Gökyiğit Botanic Garden, İstanbul, Türkiye, 2024 - On going.
+    - <small>I develop softwares and web apps based on biological information.</small>
+
 - **Intern**, Field Crops Central Research Institute, Ankara, Türkiye, 2017.
     - <small>I worked in the herbarium of the Seed Gene Bank.</small>
 
@@ -49,13 +51,16 @@ rare *Verbascum* species distributed in Türkiye with the MaxEnt algorithm.
 ### Projects
 
 #### On-going Projects
+- **Lead Developer**, e-Flora of Türkiye (turkiyeflorasi.org.tr), 2024 - present.
+    - <small>Organization: Nezahat Gökyiğit Botanic Garden</small>
+    - <small>Description: e-Flora of Türkiye (turkiyeflorasi.org.tr) is an online flora project coordinated by the Nezahat Gökyiğit Botanic Garden.
+      It aims to compile and present up-to-date taxonomic, distributional, and ecological information on the vascular plant species of Türkiye,
+      supporting scientific research and biodiversity conservation.</small>
 - **Lead Developer**, Herbarium Network of Türkiye, 2024 - present.
     - <small>Organization: Flora Research Association</small>
     - <small>Description: Herbarium Network of Türkiye is carried out by the Flora Research Association, 
       in cooperation with herbarium curators, in order to ensure effective communication of herbariums in Turkey, 
       to digitize their collections and share them like similar examples in the world.</small>
-- **Lead Developer**, TÜYAVE: Weed Database of Türkiye (yabanciot.org), 2023 - present.
-    - <small>Description: TÜYAVE is a database that contains information about the weed species in Türkiye.</small>
 - **Data Scientist**, Determination of Absorption Capacity in Lakes and Improvement of Water Quality, 2022 - present.
     - <small>Organization: Republic of Türkiye Ministry of Agriculture and Forestry</small>
     - <small>Description: I created a database to store the data of macrophyte observations and physicochemical parameters. 
@@ -74,6 +79,9 @@ rare *Verbascum* species distributed in Türkiye with the MaxEnt algorithm.
       I am responsible for the assessment of the conservation status of Turkish *Verbascum* species.</small>
 
 #### Completed Projects
+
+- **Lead Developer**, TÜYAVE: Weed Database of Türkiye (yabanciot.org), 2023 - 2024.
+    - <small>Description: TÜYAVE is a database that contains information about the weed species in Türkiye.</small>
 - **Data Scientist**, Determination of Traditional Knowledge Based on Biodiversity in Yalova, Türkiye, 2022 - 2023.
     - <small>Organization: Republic of Türkiye Ministry of Agriculture and Forestry</small>
     - <small>Description: I was responsible for the data management and analysis of the project.
@@ -122,31 +130,39 @@ rare *Verbascum* species distributed in Türkiye with the MaxEnt algorithm.
 
 ### Articles
 
-1. **Demir, O.**, Özsoy, E., Kızılırmaklı, A., Çıngay, B., Çetindaş, B., & Cabi, E. (2022).
+1. Avcıoğlu, A., Demir, O., & Görüm, T. (2025).
+An automated approach for developing geohazard inventories using news: Integrating NLP, machine learning, and mapping.
+EGUsphere [preprint].
+DOI: [10.5194/egusphere-2025-7](https://doi.org/10.5194/egusphere-2025-7).
+2. Demir, O., Çıngay, B., & Cabi, E. (2023).
+Historical Background and Taxonomical Remarks of Verbascum salgirensis Soldano (Scrophulariaceae).
+Herbarium Turcicum, 0(4), 29-34.
+DOI: [10.26650/HT.2023.1597143](https://doi.org/10.26650/HT.2023.1597143).
+3. **Demir, O.**, Özsoy, E., Kızılırmaklı, A., Çıngay, B., Çetindaş, B., & Cabi, E. (2022).
 Agricultural Weed Flora of Türkiye with Respect to Cereal Grains.
 Herbarium Turcicum, 2, 63–79.
 DOI: [10.26650/HT.2022.1209887](https://dx.doi.org/10.26650/HT.2022.1209887).
-2. **Demir, O.**, Kızılırmaklı, A., Bozdağ, C. M., & Cabi, E. (2022).
+4. **Demir, O.**, Kızılırmaklı, A., Bozdağ, C. M., & Cabi, E. (2022).
 Determination of terrestrial EUNIS habitat types of Mount Ganos (Işıklar), Tekirdağ, Türkiye.
 Frontiers in Life Sciences and Related Technologies, 3 (2), 69-74.
 DOI: [10.51753/flsrt.1109635](https://dx.doi.org/10.51753/flsrt.1109635).
-3. Cabi, E., Çıngay, B., **Demir, O.**, & Dumlu, C. (2022).
+5. Cabi, E., Çıngay, B., **Demir, O.**, & Dumlu, C. (2022).
 Evaluation of Soil and Climatic Properties of Riva Mullein (Verbascum bugulifolium Lam.) Species.
 Herbarium Turcicum, 1, 15–23.
 DOI: [10.26650/HT.2022.1503](https://dx.doi.org/10.26650/HT.2022.1503).
-4. **Demir, O.**, Çıngay, B., & Cabi, E. (2021).
+6. **Demir, O.**, Çıngay, B., & Cabi, E. (2021).
 Verbascum × malkaraense (Scrophulariaceae),	A New Verbascum L. Hybrid from Tekirdağ, Turkey.
 Bağbahçe Bilim Dergisi 8(3), 9-20.
 DOI: [10.35163/bagbahce.989510](https://dergipark.org.tr/tr/pub/bagbahce/issue/67687/989510).
-5. **Demir, O.**, Çıngay, B., & Cabi, E. (2021).
+7. **Demir, O.**, Çıngay, B., & Cabi, E. (2021).
 The	Scientific Turkish Name Proposals for the Verbascum Taxa in Turkey.
 Bağbahçe Bilim Dergisi 8(2), 38-42. 
 DOI: [10.35163/bagbahce.842287](https://dergipark.org.tr/tr/pub/bagbahce/issue/64723/842287).
-6. Ersoy, Y., Çıngay, B., Şekerciler, F., **Demir, O.**, & Cabi, E. (2019).
+8. Ersoy, Y., Çıngay, B., Şekerciler, F., **Demir, O.**, & Cabi, E. (2019).
 Checklist of grasses (Poaceae Barn.) in Istanbul. 
 Acta Biologica Turcica 32(3), 149-159.
 [Link](https://www.researchgate.net/publication/333119123_Checklist_of_grasses_Poaceae_Barn_in_Istanbul).
-7. Çıngay, B., **Demir, O.**, & Cabi, E. (2018). 
+9. Çıngay, B., **Demir, O.**, & Cabi, E. (2018). 
 Verbascum faik-karaveliogullarii (Scrophulariaceae), a new species from southeastern Anatolia, Turkey. 
 Phytotaxa 372(4), 263-272.
 DOI: [10.11646/phytotaxa.372.4.3](https://doi.org/10.11646/phytotaxa.372.4.3).
@@ -273,23 +289,30 @@ Tekirdağ, Türkiye.
     - <small>**Instructor**: Prof. Dr. Dietmar Quandt</small>
 
 ## Work with
-   
-- Prof. Dr. Evren Cabi
-    - <small>**Organization**: Department of Biology, Tekirdağ Namık Kemal University</small>
-    - <small>**Email**: ecabi@nku.edu.tr</small>
 
-- Prof. Dr. Ersin Karabacak
-    - <small>**Organization**: Department of Biology, Çanakkale Onsekiz Mart University</small>
-    - <small>**Email**: krbersin@comu.edu.tr</small>
+- Aydoğan Avcıoğlu, PhD.
+    - <small>**Organization**: Department of Science, Nezahat Gökyiğit Botanic Garden & Flora Research Association</small>
+    - <small>**Email**: a.avcioglu@brgm.fr</small>
 
-- Prof. Dr. Deniz Şirin
+- Burçin Çıngay, PhD.
+    - <small>**Organization**: Department of Science, Nezahat Gökyiğit Botanic Garden & Flora Research Association</small>
+    - <small>**Email**: burcincingay@ngbb.org.tr</small>
+    
+- Deniz Şirin, Prof. Dr.
     - <small>**Organization**: Department of Biology, Tekirdağ Namık Kemal University</small>
     - <small>**Email**: dsirin@nku.edu.tr</small>
 
-- Burçin Çıngay
-    - <small>**Organization**: Department of Science, Nezahat Gökyiğit Botanic Garden & Flora Research Association</small>
-    - <small>**Email**: burcincingay@ngbb.org.tr</small>
+- Ersin Karabacak, Prof. Dr.
+    - <small>**Organization**: Department of Biology, Çanakkale Onsekiz Mart University</small>
+    - <small>**Email**: krbersin@comu.edu.tr</small>
 
-- Dr. Robert John Soreng
+- Evren Cabi, Prof. Dr.
+    - <small>**Organization**: Department of Biology, Tekirdağ Namık Kemal University</small>
+    - <small>**Email**: ecabi@nku.edu.tr</small>
+
+- Robert John Soreng, PhD.
     - <small>**Organization**: Department of Botany - US National Herbarium (US), National Museum of Natural History, Smithsonian Institution</small>
     - <small>**Email**: sorengr@si.edu</small>
+
+- Tolga Görüm, Prof. Dr.
+    - <small>**Organization**: Eurasia Institute of Earth Sciences, Istanbul Technical University, İstanbul, Türkiye</small>
